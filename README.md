@@ -56,8 +56,8 @@
 - [Sanitizer](https://github.com/Waavi/Sanitizer) - waavi/sanitizer *
 - [Excel Handler](http://www.maatwebsite.nl/laravel-excel/docs) - maatwebsite/excel
 - [Laroute](https://github.com/aaronlord/laroute) - lord/laroute *
-- [Hashids](https://github.com/Torann/laravel-hashids) - torann/hashids 
-- [Slug on Eloquent Models](https://github.com/cviebrock/eloquent-sluggable) - cviebrock/eloquent-sluggable 
+- [Hashids](https://github.com/Torann/laravel-hashids) - torann/hashids
+- [Slug on Eloquent Models](https://github.com/cviebrock/eloquent-sluggable) - cviebrock/eloquent-sluggable
 - [Debugbar](https://github.com/barryvdh/laravel-debugbar) - barryvdh/laravel-debugbar *
 - [PHP UUID Generator](https://github.com/ramsey/uuid) - ramsey/uuid
 - [Database Abstraction Layer](https://packagist.org/packages/doctrine/dbal) - doctrine/dbal *
@@ -72,6 +72,7 @@
 - [Table Link](https://github.com/brunoti/table-link)
 - [in_array](https://github.com/brunoti/in_array)
 - [Selectize](http://selectize.github.io/selectize.js)
+- [DataTables](https://github.com/DataTables/DataTables)
 
 ## Future PHP Libraries
 - [barryvdh/emoji](https://github.com/barryvdh/Emoji)
